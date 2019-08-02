@@ -1,2 +1,1 @@
-# IDEA_demo
-demo
+第一次使用
